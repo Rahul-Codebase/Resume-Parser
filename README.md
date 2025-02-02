@@ -1,4 +1,5 @@
 Project: Resume Parser
+
 Description: Developed a Python-based resume parser that automatically extracts key details (like name, contact information, education, skills, etc.) from resumes in different formats (e.g., .docx, .pdf, .txt). This tool uses the resume-parser library to parse and display structured data for easy analysis or integration with hiring platforms.
 
 Technologies Used: Python, resume-parser library
