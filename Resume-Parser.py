@@ -1,5 +1,5 @@
 # Resume-Parser
-A Python-based resume parser that extracts key details from resumes in multiple formats.
+# A Python-based resume parser that extracts key details from resumes in multiple formats.
 
 from resume_parser import resumeparse
 import os
